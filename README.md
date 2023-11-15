@@ -1,3 +1,9 @@
+# React Counter
+
+To clarify React knowledge, I've created a simple counter that increases the value displayed on the screen
+
+## Available at Vercel: https://contador-react-ebon.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
