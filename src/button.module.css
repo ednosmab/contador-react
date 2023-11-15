@@ -1,0 +1,20 @@
+.myButton {
+    border: none;
+    padding: 3rem 4rem;
+    border-color: #a634db;
+    color: #fff;
+    box-shadow: 0 0 1.5rem .5rem black ,0 0 40px 40px #a634db inset;
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 150ms ease-in-out;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+.myButton:hover {
+    box-shadow: 0 0 10px 0 #a634db inset, 0 0 10px 4px #a634db;
+}
+
+.myButton:active{
+    box-shadow:  0 40px 40px #a634db inset, 0 0 0 0 #a634db;
+    background-color: #78249e;
+}
